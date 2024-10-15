@@ -19,7 +19,7 @@ I am a student, currently exploring the world of coding and working on exciting 
   
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Automatic Meeting-Minutes System](https://github.com/onynovianti/project-big-data-2023)  
+- 🔭 I’m currently working on [Automatic Meeting-Minutes System](https://github.com/onynovianti/SkripsiWeb)  
   
 
 - 🌱 I’m currently learning Mobile Development  
