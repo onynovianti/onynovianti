@@ -16,25 +16,17 @@ I am a student, currently exploring the world of coding and working on exciting 
   
 
 <br/>  
-
-
-## Rapidfire  
+  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Plane Crash Detectives](https://github.com/onynovianti/project-big-data-2023)  
+- 🔭 I’m currently working on [Automatic Meeting-Minutes System](https://github.com/onynovianti/project-big-data-2023)  
   
 
-- 🌱 I’m currently learning Internet of Things and Big Data  
+- 🌱 I’m currently learning Mobile Development  
   
 
-- ❓ Ask me about anything related to Web Development, and I will answer according to my ability.  
+- 📫 How to reach me: [onynovii@gmail.com] 
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -63,32 +55,4 @@ I am a student, currently exploring the world of coding and working on exciting 
 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=onynovianti&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onynovianti&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
